@@ -18,7 +18,7 @@
 Watch the full demo on YouTube here: [Ritz-Carlton Black Car Service](https://youtu.be/xvPz7iBd87U)
 
 ## Figma WireFrames
-See the wireframe design for the application here: [Ritz-Carlton Wireframe Design] (https://www.figma.com/file/kx05fWGOxMliT3ksUwha7x/%23uberRitz?node-id=0%3A1)
+See the wireframe design for the application here: [Ritz-Carlton Wireframe Design](https://www.figma.com/file/kx05fWGOxMliT3ksUwha7x/%23uberRitz?node-id=0%3A1)
 
 ## Contributors
 * [Taylor George](https://github.com/atgeorge11)
